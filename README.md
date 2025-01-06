@@ -1,8 +1,8 @@
 # Atividade-lista-pilha-fila
 
-O código desse repositório possui versões atualizadas de uma lista ligada, uma pilha Estática, e uma Fila Dinâmica, passadas durante a aula de Estrutura de Dados.
+Esse repositório é de uma atividade de Estrutura de Dados que tinha como objetivo criar versões atualizadas de uma lista ligada, de uma pilha Estática, e de uma Fila Dinâmica.
 
-## Objetivos
+## Modificações feitas
 
 Lista Ligada: transformar ela de ligada simples para duplamente ligada;
 
@@ -10,4 +10,4 @@ Pilha Estática: adicionar uma função para exibir as chaves dos elementos da b
 
 Fila Dinâmica: adicionar nó-cabeça na estrutura e adaptar as funções de inserir e de excluir elementos da fila.
 
-No repositório tem os arquivos dos programa original e modificados, a fim de comparação.
+Neste repositório tem os arquivos dos programas originais e modificados, a fim de comparação.
