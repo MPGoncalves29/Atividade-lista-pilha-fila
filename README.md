@@ -10,4 +10,4 @@ Pilha Estática: adicionar uma função para exibir as chaves dos elementos da b
 
 Fila Dinâmica: adicionar nó-cabeça na estrutura e adaptar as funções de inserir e de excluir elementos da fila.
 
-No repositório tem os arquivos do programa original e do programa modificado, a fim de comparação.
+No repositório tem os arquivos dos programa original e modificados, a fim de comparação.
